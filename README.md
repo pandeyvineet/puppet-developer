@@ -1,2 +1,2 @@
-# puppet-developer
-repository to track puppet lessons
+# Building testing and deploying
+This repo is source code and examples used in the lecture.
